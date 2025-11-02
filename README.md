@@ -1,5 +1,5 @@
 # MAT-128-Project
-Stock Predictions on MAAGA Companies using LSTM and Linear Prediction
+Stock Predictions on MAANG Companies using LSTM and Linear Prediction
 
 ## Dataset
 We used the dataset from https://www.kaggle.com/datasets/nikhil1e9/netflix-stock-price
